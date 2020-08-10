@@ -1,0 +1,51 @@
+[
+    {
+        "name": "bookClub",
+        "page":"https://eddie605134.github.io/resumePortfolio/bookClub/",
+        "useSkill":["vue.js","axios","sass","css3"],
+        "img":"./img/bookclub.webp",
+        "spr":""
+    },
+    {
+        "name": "monsterCard",
+        "page":"https://eddie605134.github.io/resumePortfolio/monsterCard/",
+        "useSkill":[],
+        "img":"./img/monstercard.webp",
+        "spr":""
+    },
+    {
+        "name": "svg_weather_card",
+        "page":"https://eddie605134.github.io/resumePortfolio/svg_weather_card/",
+        "useSkill":[],
+        "img":"./img/weathercard.webp",
+        "spr":""
+    },
+    {
+        "name": "fluentDesign",
+        "page":"https://eddie605134.github.io/resumePortfolio/fluentDesign/",
+        "useSkill":[],
+        "img":"./img/fluentdesign.webp",
+        "spr":""
+    },
+    {
+        "name": "change_recording",
+        "page":"https://eddie605134.github.io/resumePortfolio/change_recording/",
+        "useSkill":[],
+        "img":"./img/changerecording.webp",
+        "spr":""
+    },
+    {
+        "name": "goods_detail",
+        "page":"https://eddie605134.github.io/resumePortfolio/goods_detail/",
+        "useSkill":[],
+        "img":"./img/detail.webp",
+        "spr":""
+    },
+    {
+        "name": "FUI_design",
+        "page":"https://eddie605134.github.io/resumePortfolio/FUI_design/",
+        "useSkill":[],
+        "img":"./img/fuidesign.webp",
+        "spr":""
+    }
+]
