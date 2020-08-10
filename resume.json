@@ -4,48 +4,48 @@
         "page":"https://eddie605134.github.io/resumePortfolio/bookClub/",
         "useSkill":["vue.js","axios","sass","css3"],
         "img":"./img/bookclub.webp",
-        "spr":""
+        "spr":"練習串接opendata的資料，加入swiper元素並且用slot封裝成能複用的vue component。"
     },
     {
         "name": "monsterCard",
         "page":"https://eddie605134.github.io/resumePortfolio/monsterCard/",
         "useSkill":[],
         "img":"./img/monstercard.webp",
-        "spr":""
+        "spr":"遊戲的怪獸資料，使用computed去filter出想要的資料，並佐bootstrap去vue出整個頁面"
     },
     {
         "name": "svg_weather_card",
         "page":"https://eddie605134.github.io/resumePortfolio/svg_weather_card/",
         "useSkill":[],
         "img":"./img/weathercard.webp",
-        "spr":""
+        "spr":"改寫youtube上的台灣地圖的教學範例，使用vue.js與axios把天氣資料抓回來後重新整理成自己的datalist，再把相對應的地圖資源呈現在頁面上"
     },
     {
         "name": "fluentDesign",
         "page":"https://eddie605134.github.io/resumePortfolio/fluentDesign/",
         "useSkill":[],
         "img":"./img/fluentdesign.webp",
-        "spr":""
+        "spr":"試用JS套件(lax.js/aos.js)切出fluentDesign的仿切頁面"
     },
     {
         "name": "change_recording",
         "page":"https://eddie605134.github.io/resumePortfolio/change_recording/",
         "useSkill":[],
         "img":"./img/changerecording.webp",
-        "spr":""
+        "spr":"職訓時期團體專題負責的作品頁面之一，負責頁面生成從illustrator畫設計稿layout，並與組員討論校稿後切出的頁面"
     },
     {
         "name": "goods_detail",
         "page":"https://eddie605134.github.io/resumePortfolio/goods_detail/",
         "useSkill":[],
         "img":"./img/detail.webp",
-        "spr":""
+        "spr":"同change_recording"
     },
     {
         "name": "FUI_design",
         "page":"https://eddie605134.github.io/resumePortfolio/FUI_design/",
         "useSkill":[],
         "img":"./img/fuidesign.webp",
-        "spr":""
+        "spr":"youtube上學習得canvas時鐘練習"
     }
 ]
