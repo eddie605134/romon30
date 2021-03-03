@@ -1,0 +1,90 @@
+[
+  {
+    "id": 11,
+    "name": "此網頁原碼",
+    "page": "https://eddie605134.github.io/resumePortfolio/bookClub/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/new-collect.jpg",
+    "spr": "此網頁使用vue-cli ft.vue3製作，並部屬在github",
+		"type": 1
+  },
+	{
+    "id": 10,
+    "name": "jest測試-羅馬數字轉阿拉伯數字",
+    "page": "https://eddie605134.github.io/resumePortfolio/bookClub/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/new-collect.jpg",
+    "spr": "用羅馬數字轉阿拉伯文字的JS檔案做jest測試",
+		"type": 1
+  },
+	{
+    "id": 9,
+    "name": "Typescript練習",
+    "page": "https://eddie605134.github.io/resumePortfolio/bookClub/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/ts.jpg",
+    "spr": "學習用typescript寫express與react17.0前的版本，使用JS爬蟲爬取台中日日新影城電影時間表",
+		"type": 1
+  },
+  {
+    "id": 8,
+    "name": "上一個作品頁",
+    "page": "https://eddie605134.github.io/CollectionPage/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/oldresume.PNG",
+    "spr": "去年第一次做的作品集頁面，使用引入vue2.x版CDN製作",
+		"type": 2
+  },
+  {
+    "id": 7,
+    "name": "bookClub",
+    "page": "https://eddie605134.github.io/resumePortfolio/bookClub/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/bookclub.jpg",
+    "spr": "練習串接opendata的資料，加入swiper元素並且用slot封裝成能複用的vue組件。",
+		"type": 2
+  },
+  {
+    "id": 6,
+    "name": "monsterCard",
+    "page": "https://eddie605134.github.io/resumePortfolio/monsterCard/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/monstercard.jpg",
+    "spr": "遊戲的怪獸資料，使用computed去filter出想要的資料，並佐bootstrap去vue出整個頁面",
+		"type": 2
+  },
+  {
+    "id": 5,
+    "name": "svg_weather_card",
+    "page": "https://eddie605134.github.io/resumePortfolio/svg_weather_card/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/weathercard.jpg",
+    "spr": "改寫youtube上的台灣地圖的教學範例，使用vue.js與axios把天氣資料抓回來後重新整理成自己的datalist，再把相對應的地圖資源呈現在頁面上",
+		"type": 2
+  },
+  {
+    "id": 4,
+    "name": "fluentDesign",
+    "page": "https://eddie605134.github.io/resumePortfolio/fluentDesign/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/fluentdesign.jpg",
+    "spr": "試用JS套件(lax.js/aos.js)切出fluentDesign的仿切頁面",
+		"type": 2
+  },
+  {
+    "id": 3,
+    "name": "change_recording",
+    "page": "https://eddie605134.github.io/resumePortfolio/change_recording/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/changerecording.jpg",
+    "spr": "職訓時期團體專題負責的作品頁面之一，負責頁面生成從illustrator畫設計稿layout，並與組員討論校稿後切出的頁面",
+		"type": 2
+  },
+  {
+    "id": 2,
+    "name": "goods_detail",
+    "page": "https://eddie605134.github.io/resumePortfolio/goods_detail/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/detail.jpg",
+    "spr": "同change_recording",
+		"type": 2
+  },
+  {
+    "id": 1,
+    "name": "FUI_design",
+    "page": "https://eddie605134.github.io/resumePortfolio/FUI_design/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/fuidesign.jpg",
+    "spr": "youtube上學習得canvas時鐘練習",
+		"type": 2
+  }
+]
