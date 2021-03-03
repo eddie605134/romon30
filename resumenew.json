@@ -4,7 +4,7 @@
     "name": "此網頁原碼",
     "page": "https://github.com/eddie605134/2021vue3-resume",
     "img": "https://eddie605134.github.io/CollectionPage/img/new-collect.PNG",
-    "spr": "此網頁使用vue-cli ft.vue3製作，並部屬在github。",
+    "spr": "此網頁使用 vue-cli 與 vue3 製作並部屬在github。 覺得哪裡寫的不夠好可以提出，我再修改",
 		"type": 1
   },
 	{
@@ -12,7 +12,7 @@
     "name": "jest測試-羅馬數字轉阿拉伯數字",
     "page": "https://github.com/eddie605134/jest.js_test__Romanscript",
     "img": "https://eddie605134.github.io/CollectionPage/img/jest.PNG",
-    "spr": "用羅馬數字轉阿拉伯文字的JS檔案做jest測試。",
+    "spr": "用羅馬數字轉阿拉伯文字的 JS 檔案做 jest 測試。",
 		"type": 1
   },
 	{
@@ -20,7 +20,7 @@
     "name": "Typescript練習",
     "page": "https://github.com/eddie605134/typescriptTest",
     "img": "https://eddie605134.github.io/CollectionPage/img/ts.PNG",
-    "spr": "學習用typescript寫express與react17.0前的版本，使用JS爬蟲爬取台中日日新影城電影時間表。",
+    "spr": "學習用 typescript 寫 express 與 react17.0 前的版本，使用JS爬蟲爬取台中日日新影城電影時間表。",
 		"type": 1
   },
   {
@@ -28,7 +28,7 @@
     "name": "上一個作品頁",
     "page": "https://eddie605134.github.io/CollectionPage/",
     "img": "https://eddie605134.github.io/CollectionPage/img/oldresume.PNG",
-    "spr": "去年第一次做的作品集頁面，使用vue處理資料並用boostrap試做出此作品頁。",
+    "spr": "去年第一次做的作品集頁面，使用 vue 處理資料並用 boostrap 試做出此作品頁。",
 		"type": 2
   },
   {
@@ -36,7 +36,7 @@
     "name": "bookClub",
     "page": "https://eddie605134.github.io/resumePortfolio/bookClub/",
     "img": "https://eddie605134.github.io/CollectionPage/img/bookclub.jpg",
-    "spr": "練習串接opendata的資料，使用vue2.x封裝食用套件練習，把讀書會相關訊息城現在頁面上。",
+    "spr": "練習串接opendata的資料，使用 vue 封裝食用套件練習，把讀書會相關訊息城現在頁面上。",
 		"type": 2
   },
   {
@@ -44,7 +44,7 @@
     "name": "monsterCard",
     "page": "https://eddie605134.github.io/resumePortfolio/monsterCard/",
     "img": "https://eddie605134.github.io/CollectionPage/img/monstercard.jpg",
-    "spr": "遊戲的怪獸資料，使用vue2.x做資料處理，並用bootstrap去生產頁面。",
+    "spr": "遊戲的怪獸資料，使用 vue 做資料處理，並用 bootstrap 生產頁面。",
 		"type": 2
   },
   {
@@ -52,7 +52,7 @@
     "name": "svg_weather_card",
     "page": "https://eddie605134.github.io/resumePortfolio/svg_weather_card/",
     "img": "https://eddie605134.github.io/CollectionPage/img/weathercard.jpg",
-    "spr": "改寫youtube上的台灣地圖的教學範例，用axios把天氣資料抓回來後重新整理，再把相對應的地圖資源呈現在頁面上。",
+    "spr": "改寫youtube上的台灣地圖的教學範例，用 axios 把天氣資料抓回來後重新整理，再把相對應的地圖資源呈現在頁面上。",
 		"type": 2
   },
   {
@@ -60,7 +60,7 @@
     "name": "fluentDesign",
     "page": "https://eddie605134.github.io/resumePortfolio/fluentDesign/",
     "img": "https://eddie605134.github.io/CollectionPage/img/fluentdesign.jpg",
-    "spr": "用JS套件(lax.js/aos.js)仿切 fluentDesign 頁面。",
+    "spr": "用JS套件 lax.js、aos.js 仿切 fluentDesign 頁面。",
 		"type": 2
   },
   {
@@ -84,7 +84,7 @@
     "name": "FUI_design",
     "page": "https://eddie605134.github.io/resumePortfolio/FUI_design/",
     "img": "https://eddie605134.github.io/CollectionPage/img/fuidesign.jpg",
-    "spr": "canvas繪製時鐘，使用sin、cos製造波浪感。",
+    "spr": "canvas 繪製時鐘，練習用數學函式製造波浪感。",
 		"type": 2
   }
 ]
