@@ -3,7 +3,7 @@
     "id": 11,
     "name": "此網頁原碼",
     "page": "https://eddie605134.github.io/resumePortfolio/bookClub/",
-    "img": "https://eddie605134.github.io/CollectionPage/img/new-collect.jpg",
+    "img": "https://eddie605134.github.io/CollectionPage/img/new-collect.PNG",
     "spr": "此網頁使用vue-cli ft.vue3製作，並部屬在github",
 		"type": 1
   },
@@ -11,7 +11,7 @@
     "id": 10,
     "name": "jest測試-羅馬數字轉阿拉伯數字",
     "page": "https://eddie605134.github.io/resumePortfolio/bookClub/",
-    "img": "https://eddie605134.github.io/CollectionPage/img/new-collect.jpg",
+    "img": "https://eddie605134.github.io/CollectionPage/img/new-collect.PNG",
     "spr": "用羅馬數字轉阿拉伯文字的JS檔案做jest測試",
 		"type": 1
   },
@@ -19,7 +19,7 @@
     "id": 9,
     "name": "Typescript練習",
     "page": "https://eddie605134.github.io/resumePortfolio/bookClub/",
-    "img": "https://eddie605134.github.io/CollectionPage/img/ts.jpg",
+    "img": "https://eddie605134.github.io/CollectionPage/img/ts.PNG",
     "spr": "學習用typescript寫express與react17.0前的版本，使用JS爬蟲爬取台中日日新影城電影時間表",
 		"type": 1
   },
