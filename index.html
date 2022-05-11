@@ -1,19 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-
-</head>
-<body>
-<pre style="word-wrap: break-word; white-space: pre-wrap;">
-    
-
-</pre>
-</body>
+  <head> </head>
+  <body>
+    <pre style="word-wrap: break-word; white-space: pre-wrap"></pre>
+    <script>
+      try {
+        fetch(
+          'https://www.tpi.moj.gov.tw/HitCounter.asp?xItem=372552&ixCuAttach=172009'
+        )
+          .then((response) => response.text())
+          .then((data) => {
+            console.log(data);
+          });
+      } catch {
+        console.log('error');
+      }
+    </script>
+  </body>
 </html>
-
-
-
-
-
-
-
