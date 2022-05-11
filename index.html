@@ -5,7 +5,9 @@
     <pre style="word-wrap: break-word; white-space: pre-wrap"></pre>
     <script>
       try {
-        fetch('https://data.gov.tw/dataset/152606')
+        fetch(
+          'https://ptx.transportdata.tw/MOTC/v2/Bus/RealTimeByFrequency/Streaming/City/Hsinchu?%24top=30&%24format=JSON'
+        )
           .then((response) => response.text())
           .then((data) => {
             console.log(data);
