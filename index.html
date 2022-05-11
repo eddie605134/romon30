@@ -5,9 +5,7 @@
     <pre style="word-wrap: break-word; white-space: pre-wrap"></pre>
     <script>
       try {
-        fetch(
-          'https://www.tpi.moj.gov.tw/HitCounter.asp?xItem=372552&ixCuAttach=172009'
-        )
+        fetch('https://data.gov.tw/dataset/152606')
           .then((response) => response.text())
           .then((data) => {
             console.log(data);
