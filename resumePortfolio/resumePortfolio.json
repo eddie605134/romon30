@@ -1,0 +1,154 @@
+[
+  {
+    "id": 19,
+    "name": "crwn-clothing",
+    "page": "https://merry-cascaron-7cbe0f.netlify.app/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/crwn-clothing.png",
+    "spr": "用typescript,react,styled-component,redux-thunk,firebase等實作有登入與存取功能的購物網站",
+    "type": 1
+  },
+  {
+    "id": 18,
+    "name": "noteball",
+    "page": "https://merry-cascaron-7cbe0f.netlify.app/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/noteball.png",
+    "spr": "用vite,vue3,pinia,bulma,firebase等工具實作有登入功能的清單",
+    "type": 1
+  },
+  {
+    "id": 17,
+    "name": "用react+typescript仿刻IG頁面",
+    "page": "https://merry-cascaron-7cbe0f.netlify.app/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/ig_imatate.png",
+    "spr": "仿刻IG頁面,使用typescript,react,redux-toolkit等工具",
+    "type": 1
+  },
+  {
+    "id": 16,
+    "name": "股票頁面-tilwindcss",
+    "page": "https://eddie605134.github.io/tailwind-stock-layout/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/tilwindcss-stock.png",
+    "spr": "看課程練習tilwindcss",
+    "type": 1
+  },
+  {
+    "id": 15,
+    "name": "股票頁面-bootstrap5",
+    "page": "https://eddie605134.github.io/bootstrap5-stock-layout/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/bootstrap5-stock.png",
+    "spr": "看課程練習bootstrap5",
+    "type": 1
+  },
+  {
+    "id": 14,
+    "name": "socket.io聊天室",
+    "page": "https://github.com/eddie605134/bruce-typescript-chatroom",
+    "img": "https://eddie605134.github.io/CollectionPage/img/ts-socketio.png",
+    "spr": "使用typescript實作socket.io聊天室",
+    "type": 1
+  },
+  {
+    "id": 13,
+    "name": "redux-toolkit-todolist",
+    "page": "https://eddie605134.github.io/bruce-typescript-react-todo/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/bruce-typescript-react-todo.png",
+    "spr": "練習redux-toolkit",
+    "type": 1
+  },
+  {
+    "id": 12,
+    "name": "typescript-dnd",
+    "page": "https://eddie605134.github.io/ts-dnd/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/ts-dnd.png",
+    "spr": "react + typescript實作html5 drag and drop,並練習typescript抽象",
+    "type": 1
+  },
+  {
+    "id": 11,
+    "name": "react-monster-rolodex",
+    "page": "https://eddie605134.github.io/udemy-ztom-react-monster-rolodex/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/react-monster-rolodex.png",
+    "spr": "react + typescript 實現簡易搜尋",
+    "type": 1
+  },
+  {
+    "id": 10,
+    "name": "vue3-resume源碼",
+    "page": "https://github.com/eddie605134/2021vue3-resume",
+    "img": "https://eddie605134.github.io/CollectionPage/img/new-collect.PNG",
+    "spr": "此網頁使用 vue-cli 與 vue3 製作。",
+    "type": 1
+  },
+  {
+    "id": 9,
+    "name": "jest測試-羅馬數字轉阿拉伯數字",
+    "page": "https://github.com/eddie605134/jest.js_test__Romanscript",
+    "img": "https://eddie605134.github.io/CollectionPage/img/jest.PNG",
+    "spr": "用羅馬數字轉阿拉伯文字的 JS 檔案做 jest 測試。",
+    "type": 1
+  },
+  {
+    "id": 8,
+    "name": "Typescript＋JS爬蟲練習",
+    "page": "https://github.com/eddie605134/typescriptTest",
+    "img": "https://eddie605134.github.io/CollectionPage/img/ts.PNG",
+    "spr": "學習用 typescript 寫 express 與 react17.0 前的版本,使用JS爬蟲爬取台中日日新影城電影時間表。",
+    "type": 1
+  },
+  {
+    "id": 7,
+    "name": "剛出道時作品頁",
+    "page": "https://eddie605134.github.io/CollectionPage/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/oldresume.PNG",
+    "spr": "去年第一次做的作品集頁面,使用 vue 處理資料並用 boostrap 試做出此作品頁。",
+    "type": 2
+  },
+  {
+    "id": 6,
+    "name": "monsterCard",
+    "page": "https://eddie605134.github.io/resumePortfolio/monsterCard/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/monstercard.jpg",
+    "spr": "遊戲的怪獸資料,使用 vue 做資料處理,並用 bootstrap 生產頁面。",
+    "type": 2
+  },
+  {
+    "id": 5,
+    "name": "svg_weather_card",
+    "page": "https://eddie605134.github.io/resumePortfolio/svg_weather_card/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/weathercard.jpg",
+    "spr": "改寫youtube上的台灣地圖的教學範例,用 axios 把天氣資料抓回來後重新整理,再把相對應的地圖資源呈現在頁面上。",
+    "type": 2
+  },
+  {
+    "id": 4,
+    "name": "fluentDesign",
+    "page": "https://eddie605134.github.io/resumePortfolio/fluentDesign/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/fluentdesign.jpg",
+    "spr": "用JS套件 lax.js、aos.js 仿切 fluentDesign 頁面。",
+    "type": 2
+  },
+  {
+    "id": 3,
+    "name": "change_recording",
+    "page": "https://eddie605134.github.io/resumePortfolio/change_recording/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/changerecording.jpg",
+    "spr": "職訓時期團體專題負責的作品頁面之一,負責頁面生成從illustrator畫設計稿layout,並與組員討論校稿後切出的頁面。",
+    "type": 2
+  },
+  {
+    "id": 2,
+    "name": "goods_detail",
+    "page": "https://eddie605134.github.io/resumePortfolio/goods_detail/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/detail.jpg",
+    "spr": "職訓時期團體專題負責的作品頁面之一,負責頁面生成從illustrator畫設計稿layout,並與組員討論校稿後切出的頁面。",
+    "type": 2
+  },
+  {
+    "id": 1,
+    "name": "FUI_design",
+    "page": "https://eddie605134.github.io/resumePortfolio/FUI_design/",
+    "img": "https://eddie605134.github.io/CollectionPage/img/fuidesign.jpg",
+    "spr": "canvas 繪製時鐘,練習用數學函式製造波浪感。",
+    "type": 2
+  }
+]
