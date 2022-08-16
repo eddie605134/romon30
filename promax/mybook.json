@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "bookName": "Typescript 成為全端ACE",
+    "type": "FE"
+  },
+  {
+    "id": 2,
+    "bookName": "新制多益單字大全",
+    "type": "E"
+  },
+  {
+    "id": 3,
+    "bookName": "Clean Code學派的風格實踐",
+    "type": "CC"
+  },
+  {
+    "id": 4,
+    "bookName": "故事得解剖",
+    "type": "R"
+  },
+  {
+    "id": 5,
+    "bookName": "CA 無暇程式碼",
+    "type": "CC"
+  },
+  {
+    "id": 6,
+    "bookName": "打造最強網頁設計腦",
+    "type": "UIUX"
+  },
+  {
+    "id": 7,
+    "bookName": "圖解設計思考",
+    "type": "UIUX"
+  },
+  {
+    "id": 8,
+    "bookName": "圖解設計思考2",
+    "type": "UIUX"
+  },
+  {
+    "id": 9,
+    "bookName": "白話演算法",
+    "type": "CC"
+  },
+  {
+    "id": 10,
+    "bookName": "玩轉Gitlab",
+    "type": "DEV"
+  },
+  {
+    "id": 11,
+    "bookName": "Typescript 邁向專家之路",
+    "type": "FE"
+  },
+  {
+    "id": 12,
+    "bookName": "008天看不完的Vue3",
+    "type": "FE"
+  },
+  {
+    "id": 13,
+    "bookName": "打造滿足新手與專家的UI",
+    "type": "UIUX"
+  },
+  {
+    "id": 14,
+    "bookName": "在React生態圈打滾一年",
+    "type": "FE"
+  },
+  {
+    "id": 15,
+    "bookName": "JavaScript爬蟲思路",
+    "type": "FE"
+  },
+  {
+    "id": 16,
+    "bookName": "資料視覺化",
+    "type": "BE"
+  },
+  {
+    "id": 17,
+    "bookName": "python大數據訓練班",
+    "type": "BE"
+  },
+  {
+    "id": 18,
+    "bookName": "laravel5 修煉道場",
+    "type": "BE"
+  },
+  {
+    "id": 19,
+    "bookName": "情緒陰影",
+    "type": "R"
+  },
+  {
+    "id": 20,
+    "bookName": "情緒寄生",
+    "type": "R"
+  },
+  {
+    "id": 21,
+    "bookName": "線代補習班參考書",
+    "type": "CC"
+  },
+  {
+    "id": 22,
+    "bookName": "離散補習班參考書",
+    "type": "CC"
+  }
+]
