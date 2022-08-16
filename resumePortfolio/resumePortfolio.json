@@ -2,7 +2,7 @@
   {
     "id": 19,
     "name": "crwn-clothing",
-    "page": "https://merry-cascaron-7cbe0f.netlify.app/",
+    "page": "https://shimmering-donut-8c1da6.netlify.app",
     "img": "https://eddie605134.github.io/CollectionPage/img/crwn-clothing.png",
     "spr": "用typescript,react,styled-component,redux-thunk,firebase等實作有登入與存取功能的購物網站",
     "type": 1
