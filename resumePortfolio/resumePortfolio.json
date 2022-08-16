@@ -1,7 +1,7 @@
 [
   {
     "id": 19,
-    "name": "crwn-clothing",
+    "name": "crwn-clothing(typescript,react,firebase)",
     "page": "https://shimmering-donut-8c1da6.netlify.app",
     "img": "https://eddie605134.github.io/CollectionPage/img/crwn-clothing.png",
     "spr": "用typescript,react,styled-component,redux-thunk,firebase等實作有登入與存取功能的購物網站",
@@ -9,7 +9,7 @@
   },
   {
     "id": 18,
-    "name": "noteball",
+    "name": "noteball(vite,vue3,firebase)",
     "page": "https://merry-cascaron-7cbe0f.netlify.app/",
     "img": "https://eddie605134.github.io/CollectionPage/img/noteball.png",
     "spr": "用vite,vue3,pinia,bulma,firebase等工具實作有登入功能的清單",
@@ -17,15 +17,15 @@
   },
   {
     "id": 17,
-    "name": "用react+typescript仿刻IG頁面",
+    "name": "仿刻IG(typescript,react,redux-toolkit)",
     "page": "https://merry-cascaron-7cbe0f.netlify.app/",
     "img": "https://eddie605134.github.io/CollectionPage/img/ig_imatate.png",
-    "spr": "仿刻IG頁面,使用typescript,react,redux-toolkit等工具",
+    "spr": "仿刻IG頁面,使用typescript,react,redux-toolkit,RTK等工具實作",
     "type": 1
   },
   {
     "id": 16,
-    "name": "股票頁面-tilwindcss",
+    "name": "股票頁面(tilwindcss)",
     "page": "https://eddie605134.github.io/tailwind-stock-layout/",
     "img": "https://eddie605134.github.io/CollectionPage/img/tilwindcss-stock.png",
     "spr": "看課程練習tilwindcss",
@@ -33,7 +33,7 @@
   },
   {
     "id": 15,
-    "name": "股票頁面-bootstrap5",
+    "name": "股票頁面(bootstrap5)",
     "page": "https://eddie605134.github.io/bootstrap5-stock-layout/",
     "img": "https://eddie605134.github.io/CollectionPage/img/bootstrap5-stock.png",
     "spr": "看課程練習bootstrap5",
@@ -41,7 +41,7 @@
   },
   {
     "id": 14,
-    "name": "socket.io聊天室",
+    "name": "聊天室(socket.io, typescript)",
     "page": "https://github.com/eddie605134/bruce-typescript-chatroom",
     "img": "https://eddie605134.github.io/CollectionPage/img/ts-socketio.png",
     "spr": "使用typescript實作socket.io聊天室",
@@ -49,7 +49,7 @@
   },
   {
     "id": 13,
-    "name": "redux-toolkit-todolist",
+    "name": "todolist(redux-toolkit)",
     "page": "https://eddie605134.github.io/bruce-typescript-react-todo/",
     "img": "https://eddie605134.github.io/CollectionPage/img/bruce-typescript-react-todo.png",
     "spr": "練習redux-toolkit",
@@ -57,7 +57,7 @@
   },
   {
     "id": 12,
-    "name": "typescript-dnd",
+    "name": "drag and drop(typescript)",
     "page": "https://eddie605134.github.io/ts-dnd/",
     "img": "https://eddie605134.github.io/CollectionPage/img/ts-dnd.png",
     "spr": "react + typescript實作html5 drag and drop,並練習typescript抽象",
@@ -65,7 +65,7 @@
   },
   {
     "id": 11,
-    "name": "react-monster-rolodex",
+    "name": "monster-rolodex(typescript,react)",
     "page": "https://eddie605134.github.io/udemy-ztom-react-monster-rolodex/",
     "img": "https://eddie605134.github.io/CollectionPage/img/react-monster-rolodex.png",
     "spr": "react + typescript 實現簡易搜尋",
@@ -89,7 +89,7 @@
   },
   {
     "id": 8,
-    "name": "Typescript＋JS爬蟲練習",
+    "name": "台中日日新影城電影時間表(typescript,JS爬蟲)",
     "page": "https://github.com/eddie605134/typescriptTest",
     "img": "https://eddie605134.github.io/CollectionPage/img/ts.PNG",
     "spr": "學習用 typescript 寫 express 與 react17.0 前的版本,使用JS爬蟲爬取台中日日新影城電影時間表。",
