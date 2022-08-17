@@ -1,10 +1,10 @@
 [
   {
     "id": 20,
-    "name": "promax(使用react,redux-RTK,mui)",
+    "name": "promax(使用react,redux-RTK-query,mui)",
     "page": "https://cheery-cucurucho-f89aa1.netlify.app/orders",
     "img": "https://eddie605134.github.io/CollectionPage/img/promax.png",
-    "spr": "使用react,styled-component,redux-RTK, mui等實作用於自己記錄技能課程與書籍的網站",
+    "spr": "使用react,styled-component,redux-RTK-query, mui等實作用於自己記錄技能課程與書籍的網站",
     "type": 1,
     "ava": "react",
     "status": "down"
