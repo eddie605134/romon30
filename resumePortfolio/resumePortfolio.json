@@ -121,7 +121,7 @@
   },
   {
     "id": 8,
-    "name": "台中日日新影城電影時間表(typescript,JS爬蟲)",
+    "name": "日新影城電影時間表(typescript,JS爬蟲)",
     "page": "https://github.com/eddie605134/typescriptTest",
     "img": "https://eddie605134.github.io/CollectionPage/img/ts.PNG",
     "spr": "學習用 typescript 寫 express 與 react17.0 前的版本,使用JS爬蟲爬取台中日日新影城電影時間表。",
