@@ -22,7 +22,7 @@
   {
     "id": 18,
     "name": "noteball(vite,vue3,firebase)",
-    "page": "https://merry-cascaron-7cbe0f.netlify.app/",
+    "page": "https://noteballs-b945b.firebaseapp.com/#/auth",
     "img": "https://eddie605134.github.io/CollectionPage/img/noteball.png",
     "spr": "用vite,vue3,pinia,bulma,firebase等工具實作有登入功能的清單",
     "type": 1,
